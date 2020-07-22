@@ -1,6 +1,6 @@
 {
   "name": "@rubys/react-hook-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React App Server",
   "main": "middleware.js",
   "dependencies": {
